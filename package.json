@@ -21,7 +21,7 @@
     "format:fix": "prettier --write ."
   },
   "dependencies": {
-    "@next/bundle-analyzer": "^12.3.4",
+    "@next/bundle-analyzer": "^12.3.7",
     "@primer/octicons-react": "^19.14.0",
     "dompurify": "^3.2.3",
     "jsonwebtoken": "^9.0.2",
