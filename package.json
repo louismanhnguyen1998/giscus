@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@next/bundle-analyzer": "^12.3.4",
-    "@primer/octicons-react": "^19.14.0",
+    "@primer/octicons-react": "^19.15.3",
     "dompurify": "^3.2.3",
     "jsonwebtoken": "^9.0.2",
     "lit-html": "^3.2.1",
