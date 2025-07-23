@@ -35,7 +35,7 @@
     "preact-render-to-string": "^6.5.12",
     "react": "npm:@preact/compat",
     "react-dom": "npm:@preact/compat",
-    "react-ssr-prepass": "npm:preact-ssr-prepass",
+    "react-ssr-prepass": "1.6.0",
     "swr": "^2.3.0"
   },
   "devDependencies": {
